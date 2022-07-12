@@ -1,0 +1,29 @@
+{
+  "name": "demo",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "animate.css": "^4.1.1",
+    "axios": "^0.26.1",
+    "dayjs": "^1.11.0",
+    "echarts": "^5.3.1",
+    "echarts-liquidfill": "^3.1.0",
+    "element-plus": "^2.1.7",
+    "scss": "^0.2.4",
+    "three": "^0.138.3",
+    "vue": "^3.2.25",
+    "vue-axios": "^3.4.1",
+    "vue-router": "^4.0.14",
+    "vue-seamless-scroll": "^1.1.23"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "vite": "^2.8.0"
+  }
+}
